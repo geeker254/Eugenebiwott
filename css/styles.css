@@ -1,9 +1,9 @@
 h1 {
-    color: blue;
+    color: darkgoldenrod;
     text-align: center;
   }
   h2 {
-    color: green;
+    color: rgb(211, 14, 73);
     font-style: italic;
     text-align: center;
   }
@@ -12,4 +12,14 @@ h1 {
   }
   ul {
     line-height: 40px;
+  }
+  h3 {
+    color: rgb(211, 14, 73);
+    font-style: italic;
+    text-align: center;
+  }
+  h4 {
+    color: rgb(211, 14, 73);
+    font-style: italic;
+    text-align: center;
   }
