@@ -14,4 +14,4 @@ A biography of Eugene Biwott.
 
 ### Link to published site: []()
 
-## License: []()
+## License: [Eugene Biwott](https://raw.githubusercontent.com/geeker254/Eugenebiwott/master/LICENSE)
