@@ -3,7 +3,7 @@ h1 {
     text-align: center;
   }
   h2 {
-    color: rgb(211, 14, 73);
+    color: blue;
     font-style: italic;
     text-align: center;
   }
@@ -14,12 +14,12 @@ h1 {
     line-height: 40px;
   }
   h3 {
-    color: rgb(231, 109, 9);
+    color: blue;
     font-style: italic;
     text-align: center;
   }
   h4 {
-    color: rgb(211, 14, 73);
+    color: blue;
     font-style: italic;
     text-align: center;
   }
